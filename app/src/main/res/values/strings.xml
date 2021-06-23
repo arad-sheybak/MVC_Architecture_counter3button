@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter3Button_MVC_Architecture</string>
+    <string name="count">Count:0</string>
+
+</resources>
